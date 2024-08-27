@@ -1,0 +1,13 @@
+{
+  "title": "Plataforma para Estudantes e Investidores Inovadores",
+  "text": "Aurora conecta estudantes com projetos inovadores a investidores dispostos a apoiá-los. Crie seu perfil, apresente seu projeto e comece a captar recursos para tornar suas ideias uma realidade.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Saiba mais",
+      "color": "#fff"
+    }
+  ]
+}

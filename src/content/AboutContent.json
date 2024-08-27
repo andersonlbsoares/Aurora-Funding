@@ -1,0 +1,16 @@
+{
+  "title": "Inovadora, Ágil e Eficiente",
+  "text": "A plataforma Aurora está pronta para uso, oferecendo todas as ferramentas necessárias para que estudantes e investidores se conectem e colaborem. Personalizações adicionais são opcionais e podem ser feitas conforme as necessidades específicas.",
+  "section": [
+    {
+      "title": "Por que escolher Aurora?",
+      "content": "Aurora é a plataforma ideal para estudantes que desejam transformar suas ideias em realidade, conectando-os diretamente com investidores e apoiadores.",
+      "icon": "aurora.png"
+    },
+    {
+      "title": "Facilidade e Controle",
+      "content": "Aurora permite que investidores tenham controle total sobre seus investimentos, garantindo transparência e segurança em cada etapa do processo.",
+      "icon": "notes.svg"
+    }
+  ]
+}
